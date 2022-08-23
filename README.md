@@ -1,19 +1,9 @@
 # wanyiyun-app
 
-## Project setup
-```
-npm install
-```
+  本项目为仿网易云音乐移动端，主要使用的技术有vue+vant+nodejs
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 服务器使用
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1.使用<https://github.com/Binaryify/NeteaseCloudMusicApi>的网易云服务器，调用各种功能接口
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2.安装后，通过node app.js启动
